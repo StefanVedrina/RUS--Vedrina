@@ -8,7 +8,7 @@
 | Varijanta | A |
 | Periferija | HC-SR04 ultrazvučni senzor, 2x LED, 2x Tipkalo |
 | Prekidi | Eksterni (GPIO s FALLING bridom) i Hardverski Tajmer |
-| Wokwi link | [https://wokwi.com/projects/464433723157599233(https://wokwi.com/projects/464433723157599233) |
+| Wokwi link | [https://wokwi.com/projects/464433723157599233](https://wokwi.com/projects/464433723157599233) |
 
 ## 1. Opis sustava
 
