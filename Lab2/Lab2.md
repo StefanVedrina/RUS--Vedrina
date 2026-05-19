@@ -5,8 +5,7 @@
 | Stavka | Odgovor |
 | :--- | :--- |
 | Platforma | Arduino Uno (ATmega328P) |
-| Varijanta | A |
-| Sleep mode | PowerDown / Standby / Idle |
+| Sleep mode | PowerDown|
 | Buđenje | Eksterno (Gumb na Pin 2) / Tajmersko (Timer1) |
 | Čuvanje stanja | Automatsko unutar SRAM-a (kod nastavlja nakon sna) |
 | Debouncing | Softverski debouncing pomoću vremenskog praga |
