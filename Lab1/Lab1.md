@@ -8,9 +8,7 @@
 | Varijanta | A |
 | Periferija | HC-SR04 ultrazvučni senzor, 2x LED, 2x Tipkalo |
 | Prekidi | Eksterni (GPIO s FALLING bridom) i Hardverski Tajmer |
-| Upravljanje vremenom | Hardverski tajmer (ESP32 v3.x API) |
-| Prioritizacija | Softverska prioritizacija unutar `loop()` petlje |
-| Wokwi link | [https://wokwi.com/projects/...](https://wokwi.com/projects/...) |
+| Wokwi link | [https://wokwi.com/projects/464433723157599233(https://wokwi.com/projects/464433723157599233) |
 
 ## 1. Opis sustava
 
